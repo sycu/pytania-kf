@@ -374,7 +374,7 @@ id,category_id,sub_id,question,image,answer_a,answer_b,answer_c,correct_answer
 373,2,36,Podczas regulacji urządzeń pod napięciem (o ile jest to konieczne) pracę wykonujemy:,,dwoma rękoma,jedną ręką,"jedną ręką w asyście drugiej osoby, wskazane jest również stosowanie chodnika lub obuwia izolacyjnego",c
 374,2,37,Jakim przewodem podłączysz nadajnik dużej mocy do źródła zasilania?,,zwykłym przewodem dwużyłowym,kablem w oplocie bawełnianym,"przewodem o przekroju żył, odpowiednim do pobieranej przez urządzenie mocy",c
 375,2,38,Uszkodzenie ekranu fidera antenowego może prowadzić do:,,nie prowadzi do żadnych negatywnych skutków,"wzrostu zakłóceń, bez względu na pogodę",wzrostu zakłóceń i zmian impedancji kabla grożąca uszkodzeniem nadajnika,c
-376,2,39,Jak oznacza się odpowiednio - przewód neutralny (N) oraz ochronno-uziemiający (PE) w instalacji elektrycznej?,,"czerwony, czarny","niebieski, żółto-zielony","żółto-zielony, brązowy",a
+376,2,39,Jak oznacza się odpowiednio - przewód neutralny (N) oraz ochronno-uziemiający (PE) w instalacji elektrycznej?,,"czerwony, czarny","niebieski, żółto-zielony","żółto-zielony, brązowy",b
 377,2,40,Który z sieciowych przewodów zasilających można podłączyć do obudowy zasilacza:,,liniowy (fazowy),neutralny,ochronno-uziemiający,c
 378,3,1,Co oznacza wg kodu Q symbol QRG?,,włączam większą moc nadajnika,moja częstotliwość jest...,siła twoich sygnałów waha się,b
 379,3,2,Czy operator może przejść na nadawanie niezwłocznie po wybraniu częstotliwości pracy? ,,może od razu nadawać ,może nadawać lecz ze zredukowaną mocą ,najpierw powinien upewnić się iż częstotliwość jest wolna i nie będzie zakłócał pracy innych użytkowników,c
