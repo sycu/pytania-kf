@@ -523,5 +523,5 @@ id,category_id,sub_id,question,image,answer_a,answer_b,answer_c,correct_answer,a
 522,4,69,Czy na pasmach amatorskich możemy nadawać dowolne treści?,,"Nie, stacje mają zakaz transmisji sygnałów zbędnych, nieużytecznych, fałszywych lub wprowadzających w błąd","Tak, jest to przywilej radioamatorów","Nie, nie można nadawać komercyjnej muzyki oraz transmisji o charakterze religijnym",c,
 523,1,,??? W obwodzie prądu stałego przez rezystor 10 Ω płynie prąd 1 A. Jaki jest spadek napięcia na rezystorze?,,1 V,100 V,10 V,c,
 524,1,,??? Rezystor ma wartość 10 Ω. Płynie przez niego prąd 1 A. Jaka moc wydziela się na rezystorze?,,1 W,1000 W,10 W,c,
-525,1,,"??? Zasilacz dostarcza do stopnia końcowego nadajnika napięcie 100 V i prąd 1 A. Jaka jest sprawność energetyczna stopnia końcowego, jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W?",,"0,5","0,4","0,6",b,
-526,1,,"??? Jaka jest różnica pomiędzy efektywną mocą promieniowaną ERP, a EIRP?",,"EIRP jest większe o 2,15 dB od ERP","EIRP jest mniejsze o 2,15 dB od ERP",Nie ma różnicy,a,
+525,1,,"??? Zasilacz dostarcza do stopnia końcowego nadajnika napięcie 100 V i prąd 1 A. Jaka jest sprawność energetyczna stopnia końcowego, jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W?",,0.5,0.4,0.6,b,
+526,1,,"??? Jaka jest różnica pomiędzy efektywną mocą promieniowaną ERP, a EIRP?",,EIRP jest większe o 2.15 dB od ERP,EIRP jest mniejsze o 2.15 dB od ERP,Nie ma różnicy,a,
