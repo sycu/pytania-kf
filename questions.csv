@@ -240,7 +240,7 @@ id,category_id,sub_id,question,image,answer_a,answer_b,answer_c,correct_answer,a
 239,1,239,"Zasilacz dostarcza do stopnia końcowego nadajnika napięcie 500 V i prąd 200 mA. Jaka jest sprawność energetyczna stopnia końcowego, jeżeli na wyjściu zmierzyliśmy moc PEP = 40 W?",,50%,40%,60%,b,
 240,1,240,"Która z podanych mocy PEP odpowiada napięciu maksymalnemu Umax = 100 V, zmierzonemu oscyloskopem na wyjściu nadajnika, na obciążeniu 50 Ω (zakładamy sygnał sinusoidalny)?",,200 W,100 W,50 W,b,
 241,1,241,"W przetwornikach analogowo-cyfrowych, aby poprawnie odczytać sygnał wejściowy, częstotliwość próbkowania musi być:",,większa lub równa dwukrotności najwyższej częstotliwości przetwarzanego sygnału,większa lub równa najwyższej częstotliwości przetwarzanego sygnału,większa lub równa połowie najwyższej częstotliwości przetwarzanego sygnału,a,
-242,1,242,Filtr antyaliasingowy w odbiorniku SDR może być zrealizowany jako:,,filtr sprzętowy,filtr programowy,filtr sprzętowy lub programowy,c,
+242,1,242,Filtr antyaliasingowy w odbiorniku SDR może być zrealizowany jako:,,filtr sprzętowy,filtr programowy,filtr sprzętowy lub programowy,a,
 243,1,243,"Rezystor o wartości 10 Ω dołączono do napięcia 3 V. Jakiej mocy rezystor należy dobrać, żeby nie uległ on uszkodzeniu?",,1 W,"0,125 W","0,5 W",a,
 244,1,244,W kondensatorze energia jest magazynowana w:,,polu elektrycznym,polu magnetycznym,nie jest magazynowana,a,
 245,1,245,"W obwodzie prądu przemiennego, przy tej samej częstotliwości, zmieniono kondensator 2200 pF na 22 nF. Ile razy zmniejszyła się reaktancja kondensatora?",,"0,1 raza",100 razy,10 razy,c,
