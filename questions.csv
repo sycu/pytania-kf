@@ -477,7 +477,7 @@ id,category_id,sub_id,question,image,answer_a,answer_b,answer_c,correct_answer,a
 476,4,23,Na jaki okres czasu wydawane są pozwolenia amatorskie kategorii 5?,,5 lat,10 lat,15 lat,a,
 477,4,24,Jaka jest maksymalna moc wyjściowa stacji amatorskiej w przypadku pozwolenia kategorii 1?,,50 watów,500 watów,250 watów,b,
 478,4,25,Jaka jest maksymalna moc wyjściowa stacji amatorskiej w przypadku pozwolenia kategorii 3?,,15 watów,100 watów,150 watów,b,
-479,4,26,Jaka jest moc maksymalna wyjściowa stacji amatorskiej w przypadku pozwolenia kategorii 5?,,50 watów dla nadajnika poniżej 30 MHz a 15 watów dla nadajnika powyżej 30 MHz,50 watów,150 watów,a,
+479,4,26,Jaka jest maksymalna moc wyjściowa stacji amatorskiej w przypadku pozwolenia kategorii 5?,,50 watów dla nadajnika poniżej 30 MHz a 15 watów dla nadajnika powyżej 30 MHz,50 watów,150 watów,a,
 480,4,27,Jaka jest maksymalna moc wyjściowa radiostacji w przypadku pozwolenia dodatkowego?,,500 watów,1000 watów,1500 watów,c,
 481,4,28,W jakich zakresach krótkofalowych może pracować operator posiadający pozwolenie kategorii 1?,,3500 - 3800 kHz oraz 7000 - 7300 kHz,7000 - 7100 kHz oraz 28000 - 29900 kHz,we wszystkich zakresach częstotliwości przeznaczonych dla służby radiokomunikacyjnej amatorskiej na terytorium RP,c,
 482,4,29,W jakich zakresach częstotliwości może pracować operator posiadający pozwolenie kategorii 3?,,28000 - 29900 kHz oraz 144 - 146 MHz,"1.81 - 2 MHz, 3.5 - 3.8 MHz, 7 - 7.2 MHz, 14 - 14.35 MHz, 21 - 21.45 MHz, 28 - 29.7 MHz, 144 - 146 MHz, 430-440 MHz oraz 10 - 10.5 GHz",28000 - 29900 kHz oraz 430 - 440 MHz,b,
