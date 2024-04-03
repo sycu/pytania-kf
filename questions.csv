@@ -159,7 +159,7 @@ id,category_id,sub_id,question,image,answer_a,answer_b,answer_c,correct_answer,a
 158,1,158,"Mamy obwód rezonansowy o częstotliwości 3.5 MHz. W jego skład wchodzi pojemność C = 400 pF. Jaką pojemność należy dołączyć zamiast C, by przestroić obwód na 7 MHz?",,200 pF,100 pF,57 pF,b,
 159,1,159,Obwód rezonansowy na częstotliwość 14 MHz ma dobroć Q=100. Jaka jest szerokość pasma tego obwodu rezonansowego?,,280 kHz,14 kHz,140 kHz,c,
 160,1,160,Na rysunku przedstawiono schemat prostownika. Jak nazywa się ten rodzaj prostownika?,A_1_162.png,prostownik dwupołówkowy,prostownik jednopołówkowy,prostownik mostkowy dwupołówkowy,c,
-161,1,161,"Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie Usk transformatora zasilającego diody?",,25 V,17.7 V,20 V,b,
+161,1,161,"Napięcie na wyjściu zasilacza nieobciążonego z filtrem pojemnościowym, wynosi 25 V. Jakie jest napięcie U<sub>sk</sub> transformatora zasilającego diody?",,25 V,17.7 V,20 V,b,
 162,1,162,Wzmacniacz posiada wzmocnienie napięciowe 10 razy. Wyraź to wzmocnienie w decybelach (dB),,10 dB,20 dB,40 dB,b,
 163,1,163,Wzmacniacz wysokiej częstotliwości obciążony obwodem rezonansowym jest:,,wzmacniaczem selektywnym,wzmacniaczem szerokopasmowym,wzmacniaczem akustycznym,a,
 164,1,164,W tranzystorowym wzmacniaczu mocy który element jest niezbędny aby nie generować zakłóceń harmonicznych?,,filtr dolnoprzepustowy,przełącznik nadawanie-odbiór,układ dopasowania bazy tranzystora,a,
