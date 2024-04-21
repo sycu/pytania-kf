@@ -497,7 +497,7 @@ id,category_id,sub_id,question,image,answer_a,answer_b,answer_c,correct_answer,a
 496,4,43,Poprawne literowanie wg alfabetu ITU litery B i F:,,"Bil, fox","bravo, foxtrot","box, Florida",b,
 497,4,44,Poprawne literowanie wg alfabetu ITU litery C i G:,,"Charlie, golf","Canada, gold","Chile, Grenada",a,
 498,4,45,Poprawne literowanie wg alfabetu ITU litery I i K:,,"India, Kanada","Italia, Kaz","India, Kilo",c,
-499,4,46,Poprawne literowanie wg alfabetu ITU litery R i V:,,"Ren, Viktor","Romeo, Viktor","radio, Viola",b,
+499,4,46,Poprawne literowanie wg alfabetu ITU litery R i V:,,"Ren, Victor","Romeo, Victor","radio, Viola",b,
 500,4,47,Poprawne literowanie wg alfabetu ITU litery X i S:,,"X-Ray, Sierra","Xsen, Santiago","X-Ray, Syria",a,
 501,4,48,Które prefiksy znaków wywoławczych przeznaczone są dla Polski?,,"HF, SN, SO, SP, SQ, SR, 3Z","HF, SN, SO, SP, SQ, 3Z, 3X","HA, SM, SO, SP, SQ, SR, 3Z",a,
 502,4,49,Zakres częstotliwości przeznaczony dla służby amatorskiej w paśmie 160 m to:,,1810 kHz - 1950 kHz,1810 kHz - 2000 kHz,1810 kHz - 1980 kHz,b,
